@@ -1,0 +1,19 @@
+{
+  "name": "work",
+  "version": "1.0.0",
+  "description": "Weather forecast",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olhavalchak/Forecast.git"
+  },
+  "author": "Olhavalchak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olhavalchak/Forecast/issues"
+  },
+  "homepage": "https://github.com/olhavalchak/Forecast#readme"
+}
